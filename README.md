@@ -14,6 +14,7 @@ Guessing Game:
 External resources used to build this guessing game:
 - if and else statements: https://www.programiz.com/python-programming/if-elif-else
 - exit commands: https://www.geeksforgeeks.org/python-exit-commands-quit-exit-sys-exit-and-os-_exit/
-- python exception handling: https://www.programiz.com/python-programming/exception-handling#:~:text=In%20Python%2C%20exceptions%20can%20be,we%20have%20caught%20the%20exception.
+- python exception handling: https://www.programiz.com/python-programming/exception-handling#:~:text=In%20Python%2C%20exceptions%20can%20be,we%20have%20caught%20the%20exception
+
 Kick off the program by calling the start_game function.
 start_game()
